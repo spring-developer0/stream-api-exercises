@@ -1,6 +1,6 @@
 # Getting Started 🚀
 
-#### This repository covers most of the interview questions solved on stream api. You can refer below questions and try it by yourself, If help needed do checkout the solutions 😊
+#### This repository covers most of the interview questions solved using the Stream API. You can refer to the questions below and try solving them yourself. If you need help, do check out the solutions. 😊
 
 ### Refer Interview Question on Stream API:
 
